@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Sai Soundararaj <saip@outlook.com>
+MAINTAINER liaowb <273249552@qq.com>
 
 ARG THEANO_VERSION=rel-0.8.2
 ARG TENSORFLOW_VERSION=0.8.0
